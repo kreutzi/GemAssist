@@ -1,0 +1,6 @@
+piper-tts
+yt_dlp
+openwakeword
+pyaudio
+faster-whisper
+google-generativeai
